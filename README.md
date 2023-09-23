@@ -18,6 +18,7 @@
 <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/78044749?s=64&v=4" alt="aws ecr" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/amazon-ecs-color-icon-481x512-uy1j6sqj.png" alt="aws ecs" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:2570/1*YcNHxdrbPlV-lWjN_0Ek3g.png" alt="aws vpc" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwFzlUgtcx8pothC2ygIsHB4lI4PFPynOt0Z3VjKao3F8DRjdO7NgHY6lTqqu024IPkw&usqp=CAU" alt="aws glue" width="40" height="40"/> </a>
 
 
 <h4 align="left">Languages Frameworks and Other Tools :</h4>
