@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
-<h3 align="center">A passionate ML Engineer</h3>
+<h3 align="center">A passionate Data/ Infrastructure/ ML Engineer</h3>
 
 - 🔭 I’m currently working on **MLOPS Projects** :bulb:
 
-- 👯 I’m looking to collaborate on **MLOPS applied to real world scenarios**
+- 👯 I’m looking to collaborate on interesting open-source projects. I am interested in MLOPS/ML Engineering applied to real world scenarios.
 
 
 <h3 align="left">Connect with me:</h3>
