@@ -13,7 +13,7 @@ Experienced in delivering end-to-end data workflows — from ingestion and trans
 
 ## Core Competencies
 
-- **Data Engineering:** ETL pipelines, data integration, data quality, automation  
+- **Data Engineering:** ETL pipelines, data integration, data quality, automation, Databricks 
 - **Programming:** Python, SQL, R  
 - **Data Modeling:** relational modeling, analytical datasets  
 - **Cloud & Infrastructure:** AWS, Terraform (Infrastructure as Code)  
